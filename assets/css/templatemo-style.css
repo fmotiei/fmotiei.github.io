@@ -328,11 +328,11 @@ html {
 
 .white-button a {
     display: inline-block;
-    padding: 12px 70px;
+    padding: 10px 70px;
     height: 70px;
     line-height: 70px;
-    background-color: #fff;
-    color: #543563;
+    background-color: #543563;
+    color: #fff;
     font-size: 16px;
     font-weight: 800;
     width: 100%;
@@ -340,6 +340,7 @@ html {
     text-transform: uppercase;
     transition: all 0.5s;
     border-top: 2px solid #543563;
+    border-bottom: 2px solid #543563;
 }
 
 .white-button a:hover {
@@ -349,11 +350,11 @@ html {
 
 button {
     display: inline-block;
-    padding: 12px 70px;
+    padding: 10px 70px;
     height: 70px;
     line-height: 70px;
-    background-color: #fff;
-    color: #543563;
+    background-color: #543563;
+    color: #fff;
     font-size: 16px;
     font-weight: 800;
     width: 100%;
