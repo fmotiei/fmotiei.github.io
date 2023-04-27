@@ -315,7 +315,6 @@ html {
 .section-heading ul li {
   list-style-image: url(/assets/images/icon.jpeg);
   padding-inline-start: 1ch;
-  display: inline-block;
 }
 
 .section-heading span {
