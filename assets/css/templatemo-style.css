@@ -310,7 +310,7 @@ html {
 }
 
 .section-par li {
-  list-style-image: url("assets/images/icon.jpeg");
+  list-style-image: url(../images/icon.jpeg);
   margin-left: 0px;
   margin-top: 15px;
 }
