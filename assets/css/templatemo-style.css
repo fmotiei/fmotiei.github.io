@@ -311,6 +311,7 @@ html {
 
 .section-par li {
   list-style-image: url("assets/images/icon.jpeg");
+  margin-left: 5px;
   margin-top: 15px;
 }
 
@@ -439,13 +440,13 @@ button:hover {
     transition: all 0.5s;
 }
 
-.service-item:hover {
-    background-color: rgba(250, 250, 250, 1);
+.service-item li{
+  margin-left: 5px;
+  transition: all 0.5s;
 }
 
-.service-item li{
-  margin-left: 10px;
-  transition: all 0.5s;
+.service-item:hover {
+    background-color: rgba(250, 250, 250, 1);
 }
 
 .service-item:hover h4 {
