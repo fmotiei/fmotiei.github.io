@@ -319,6 +319,10 @@ html {
     letter-spacing: 0.5px;
 }
 
+.li {
+  list-style-image: url(/assets/images/diamond.jpeg);
+  padding-inline-start: 1ch;
+}
 
 /* Buttons */
 
