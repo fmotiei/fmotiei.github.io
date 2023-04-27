@@ -314,11 +314,22 @@ html {
 }
 
 .section-par li {
-  list-style-image: url(../images/icon2.png);
-  padding-inline-start: 1ch;
-  padding-left: 0;
-  margin-top: 15px;
+    list-style: none;
+    padding-inline-start: 1px;
+    padding-left: 0;
+    margin-top: 15px;
 }
+
+.section-par li::before{
+  content: '';
+  display: inline-block;
+  margin-right: 10px;
+  height: 10px;
+  width: 10px;
+  background-image: url(../images/icon2.png);
+}
+
+
 
 .section-heading {
     text-align: center;
