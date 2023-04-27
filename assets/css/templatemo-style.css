@@ -312,13 +312,13 @@ html {
 }
 
 .section-heading .line-dec {
-    width: 100px;
+    width: 300px;
     height: 3px;
     background-color: #8c659e;
     margin: 10px auto;
 }
 
-.section-heading ul li {
+.section-heading li {
   list-style-image: url(/assets/images/icon.jpeg);
   padding-inline-start: 1ch;
 }
