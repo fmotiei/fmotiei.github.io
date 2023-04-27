@@ -309,6 +309,10 @@ html {
   padding-right: 50px;
 }
 
+.section-par ul{
+  padding-left: 0;
+}
+
 .section-par li {
   list-style-image: url(../images/icon.jpeg);
   padding-left: 0;
@@ -441,7 +445,6 @@ button:hover {
 }
 
 .service-item li{
-  padding-left: 0;
   transition: all 0.5s;
 }
 
