@@ -303,7 +303,9 @@ html {
 .section-par{
   color: #fff;
   font-size: 16px;
-  margin: 10px auto;
+  letter-spacing: 0.5px;
+  text-align:left;  
+  padding: 80px 45px;
 }
 
 .section-heading {
@@ -326,8 +328,7 @@ html {
 
 .section-heading li {
   list-style-image: url(/assets/images/icon.jpeg);
-  padding-inline-start: 1ch;
-  font-size: 16px;
+  /* padding-inline-start: 1ch; */
 }
 
 .section-heading span {
