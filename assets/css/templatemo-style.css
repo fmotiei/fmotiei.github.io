@@ -311,7 +311,7 @@ html {
 
 .section-par li {
   list-style-image: url(../images/icon.jpeg);
-  margin-left: 0px;
+  padding-left: 0;
   margin-top: 15px;
 }
 
@@ -441,7 +441,7 @@ button:hover {
 }
 
 .service-item li{
-  margin-left: 0px;
+  padding-left: 0;
   transition: all 0.5s;
 }
 
