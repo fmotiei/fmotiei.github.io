@@ -785,16 +785,16 @@ section.contact-me {
     }
 
     .menu .image {
-        margin-top: 40px;
+        margin-top: 20px;
     }
 
     .menu .image img {
-        width: 150px;
-        height: 150px;
+        width: 200px;
+        height: 200px;
     }
 
     .menu .author-content {
-        margin: 20px 0px 40px 0px;
+        margin: 20px 0px 20px 0px;
     }
 
     .menu .container {
