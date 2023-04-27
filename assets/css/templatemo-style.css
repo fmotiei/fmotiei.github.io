@@ -227,7 +227,7 @@ html {
   box-sizing: border-box;
   height: 100vh;
   max-height: 100vh !important;
-  max-width: 250vw !important;
+  max-width: 200vw !important;
   min-width: 45px !important;
   outline: none;
   overflow-x: hidden !important;
