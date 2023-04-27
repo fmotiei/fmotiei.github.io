@@ -109,10 +109,6 @@ html {
     list-style: none;
 }
 
-.main-nav ul li {
-      display: inline-block;
-}
-
 .main-nav li:last-child a {
     border-bottom: 2px solid #fff;
 }
@@ -325,6 +321,7 @@ html {
 .section-heading li {
   list-style-image: url(/assets/images/icon.jpeg);
   padding-inline-start: 1ch;
+  font-size: 16px;
 }
 
 .section-heading span {
