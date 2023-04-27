@@ -66,11 +66,6 @@ ul {
 ul li {
     display: inline-block;
 }
-/* ul li {
-  list-style-image: url(/assets/images/icon.jpeg);
-  padding-inline-start: 1ch;
-  display: inline-block;
-} */
 
 html {
     -webkit-box-sizing: border-box;
@@ -315,6 +310,12 @@ html {
     height: 3px;
     background-color: #8c659e;
     margin: 10px auto;
+}
+
+.secton-hearing ul li {
+  list-style-image: url(/assets/images/icon.jpeg);
+  padding-inline-start: 1ch;
+  display: inline-block;
 }
 
 .section-heading span {
