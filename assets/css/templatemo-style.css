@@ -305,13 +305,13 @@ html {
   font-size: 16px;
   letter-spacing: 0.5px;
   text-align:left;
-  padding-left: 45px;
-  padding-right: 45px;
+  padding-left: 50px;
+  padding-right: 50px;
 }
 
 .section-par li {
   list-style-image: url("assets/images/icon.jpeg");
-  margin-left: 5px;
+  margin-left: 0px;
   margin-top: 15px;
 }
 
@@ -441,7 +441,7 @@ button:hover {
 }
 
 .service-item li{
-  margin-left: 5px;
+  margin-left: 0px;
   transition: all 0.5s;
 }
 
