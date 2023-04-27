@@ -444,6 +444,7 @@ button:hover {
 }
 
 .service-item li{
+  margin-left: 10px;
   transition: all 0.5s;
 }
 
