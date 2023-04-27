@@ -324,23 +324,22 @@ html {
     letter-spacing: 0.5px;
 }
 
-li {
-  list-style-image: url(/assets/images/diamond.jpeg);
-  padding-inline-start: 1ch;
-}
-
 /* Buttons */
 
 .white-button a {
     display: inline-block;
-    padding: 12px 20px;
+    padding: 12px 70px;
+    /* height: 70px;
+    line-height: 70px; */
     background-color: #fff;
     color: #543563;
-    font-size: 13px;
+    font-size: 16px;
     font-weight: 800;
+    width: 100%;
     letter-spacing: 0.5px;
     text-transform: uppercase;
     transition: all 0.5s;
+    border-top: 2px solid #543563;
 }
 
 .white-button a:hover {
