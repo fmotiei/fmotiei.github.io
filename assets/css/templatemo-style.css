@@ -312,7 +312,7 @@ html {
     margin: 10px auto;
 }
 
-.secton-hearing ul li {
+.secton-heading ul li {
   list-style-image: url(/assets/images/icon.jpeg);
   padding-inline-start: 1ch;
   display: inline-block;
