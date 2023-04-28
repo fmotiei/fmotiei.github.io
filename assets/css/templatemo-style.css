@@ -143,7 +143,7 @@ html {
 
 .menu .image img {
     width: 200px;
-    height: 200px;
+    height: 300px;
     border-radius: 50%;
     text-align: center;
 }
@@ -818,8 +818,8 @@ section.contact-me {
     }
 
     .menu .image img {
-        width: 100px;
-        height: 300px;
+        width: 200px;
+        height: 200px;
     }
 
     .menu .author-content {
