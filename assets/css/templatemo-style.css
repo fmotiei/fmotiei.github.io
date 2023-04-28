@@ -142,8 +142,8 @@ html {
 }
 
 .menu .image img {
-    width: 200px;
-    height: 200px;
+    /* width: 200px;
+    height: 200px; */
     border-radius: 50%;
     text-align: center;
 }
@@ -305,8 +305,8 @@ html {
   font-size: 16px;
   letter-spacing: 0.5px;
   text-align:left;
-  padding-left: 20px;
-  padding-right: 20px;
+  padding-left: 25px;
+  padding-right: 25px;
 }
 
 .section-par ul{
@@ -441,8 +441,8 @@ button:hover {
 }
 
 .service-item {
-    padding-left: 10px;
-    padding-right: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
 
     margin-bottom: 10px;
     padding: 15px;
