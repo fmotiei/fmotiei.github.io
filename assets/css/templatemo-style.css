@@ -437,7 +437,7 @@ button:hover {
 }
 
 .my-services .item1 {
-  grid-row: 1/3;
+  grid-row: 1/2;
 }
 
 .service-item {
@@ -818,8 +818,8 @@ section.contact-me {
     }
 
     .menu .image img {
-        /* width: 200px;
-        height: 200px; */
+        width: 200px;
+        height: 200px;
     }
 
     .menu .author-content {
