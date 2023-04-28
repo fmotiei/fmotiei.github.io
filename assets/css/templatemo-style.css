@@ -443,6 +443,7 @@ button:hover {
 .service-item {
     padding-left: 15px;
     padding-right: 15px;
+    padding-top: 15px;
 
     margin-bottom: 10px;
     padding: 10px;
