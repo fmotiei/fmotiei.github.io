@@ -306,7 +306,7 @@ html {
   letter-spacing: 0.5px;
   text-align:left;
   padding-left: 20px;
-  padding-right: 20px;
+  padding-right: 10px;
 }
 
 .section-par ul{
@@ -433,7 +433,7 @@ button:hover {
 .my-services .grid {
   display: grid;
   grid-template-columns: 50% 50%;
-  grid-gap: 10px;
+  grid-gap: 5px;
 }
 
 .my-services .item1 {
@@ -445,11 +445,6 @@ button:hover {
     padding-right: 20px;
     padding-top: 20px;
     padding-bottom: 20px;
-
-    margin-bottom: 0px;
-    margin-top: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
 
     background-color: rgba(250, 250, 250, 0.1);
     transition: all 0.5s;
