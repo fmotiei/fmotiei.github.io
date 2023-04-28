@@ -441,12 +441,12 @@ button:hover {
 }
 
 .service-item {
-    padding-left: 15px;
-    padding-right: 15px;
-    padding-top: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 15px;
 
-    margin-bottom: 10px;
-    padding: 10px;
+    margin-bottom: 15px;
+    /* padding: 10px; */
     background-color: rgba(250, 250, 250, 0.1);
     transition: all 0.5s;
 }
