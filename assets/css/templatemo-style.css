@@ -138,11 +138,11 @@ html {
 /* Sidebar Menu */
 
 .menu .image {
-    margin-top: 60px;
+    margin-top: 30px;
 }
 
 .menu .image img {
-    width: 250px;
+    width: 200px;
     /* height: 200px; */
     border-radius: 50%;
     text-align: center;
